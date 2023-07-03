@@ -8,10 +8,13 @@ M Yang, G Cai, F Liu, Z Dong, X He, J Hao, S Weiqi, J Wang, X Chen
 ACM TOIS
 
 ## Citation
-@inproceedings{yang2021top,
-  title={Top-n recommendation with counterfactual user preference simulation},
-  author={Yang, Mengyue and Dai, Quanyu and Dong, Zhenhua and Chen, Xu and He, Xiuqiang and Wang, Jun},
-  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
-  pages={2342--2351},
-  year={2021}
+@article{yang2023debiased,
+  title={Debiased recommendation with user feature balancing},
+  author={Yang, Mengyue and Cai, Guohao and Liu, Furui and Jin, Jiarui and Dong, Zhenhua and He, Xiuqiang and Hao, Jianye and Shao, Weiqi and Wang, Jun and Chen, Xu},
+  journal={ACM Transactions on Information Systems},
+  volume={41},
+  number={4},
+  pages={1--25},
+  year={2023},
+  publisher={ACM New York, NY}
 }
